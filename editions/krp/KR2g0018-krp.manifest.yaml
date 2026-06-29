@@ -1,0 +1,80 @@
+canonical_identifier: bkk:krp/KR2g0018/krp/v1
+canonical_location: https://kanripo.org/bkk/KR2g0018/krp/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 高士傳
+  date: '2015-08-24 22:34:44.147413'
+  source:
+    repository: kanripo
+    path: KR2g0018
+  base_edition: WYG
+  edition:
+    short: krp
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR2g0018_000-krp.yaml, hash: 'sha256:93ab6319fb170c10f4e5276f3cf1b8233fc31c668b0b0c3855b3d84804588fbd'}
+  - {seq: 1, filename: KR2g0018_001-krp.yaml, hash: 'sha256:0cc1dae48b8f0bc91a1230b4fff65bdd91cfe3323480c5addd49b4b02213decd'}
+  - {seq: 2, filename: KR2g0018_002-krp.yaml, hash: 'sha256:2500fde62e87eddcdf1718e1043247d4e9b925cdb65ff393d2b93bc1d8551874'}
+  - {seq: 3, filename: KR2g0018_003-krp.yaml, hash: 'sha256:4ab1cc07024caca9472747893c732c176b24c2fbd7c08ae94eac4092843cf85f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2g0018_000-krp.markers.yaml, hash: 'sha256:bd9fa920af2c07df7035caa7debe82513f93a50437c79b31c597c1d01eba2b21'}
+  - {seq: 1, role: markers, filename: assets/KR2g0018_001-krp.markers.yaml, hash: 'sha256:270605d8fef9174200a83221ab73eb0833b3cd64478be625e55e52c9dc2a612d'}
+  - {seq: 2, role: markers, filename: assets/KR2g0018_002-krp.markers.yaml, hash: 'sha256:234459b6e1d13a21afa20b673fa00f998c958c318c93f83e4f38732ba460f855'}
+  - {seq: 3, role: markers, filename: assets/KR2g0018_003-krp.markers.yaml, hash: 'sha256:29fbb746852076e0542b12b4cd3382473ebb838c325a5557668d18740268c80c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2g0018_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 411
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0018_WYG_000-3a
+    span:
+    - body
+    - 411
+    - 610
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR2g0018_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 4339
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR2g0018_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 5476
+  label: 卷中
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR2g0018_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 4841
+  label: 卷下
+  type: section
+  level: 1
+hash: sha256:2b300bc27066c94a56848481c4167eca4028596b5b9478384545cce14108a779
