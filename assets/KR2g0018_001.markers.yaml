@@ -123,7 +123,6 @@ markers:
   - {type: 'tls:seg', offset: 114, content: '', id: KR2g0018_CHANT_001-1a.18}
   - {type: variant, offset: 114, length: 5, content: 或錄屈節雜, WYG: 哉耰}
   - {type: variant, offset: 114, length: 5, content: 或錄屈節雜, krp: 哉耰}
-  - {type: substitution, offset: 115, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 118, content: ，, id: KR2g0018_CHANT_001-bkkpn38}
   - {type: 'tls:seg', offset: 118, content: '', id: KR2g0018_CHANT_001-1a.19}
   - {type: variant, offset: 121, length: 6, content: 純又近取秦漢, WYG: 輟子路以告孔子孔子憮然曰鳥獸}
@@ -173,9 +172,8 @@ markers:
   - {type: 'tls:seg', offset: 183, content: '', id: KR2g0018_CHANT_001-1a.31}
   - {type: punctuation, offset: 188, content: ，, id: KR2g0018_CHANT_001-bkkpn51}
   - {type: 'tls:seg', offset: 188, content: '', id: KR2g0018_CHANT_001-1a.32}
-  - {type: substitution, offset: 190, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 192, content: 。, id: KR2g0018_CHANT_001-bkkpn52}
   - {type: xml-element, offset: 192, content: '', id: KR2g0018_CHANT_001-bkkxmlele2}
   body: []
   back: []
-hash: sha256:8fcad13a46d6d829ab146d770b84f2bca871cb4442cf7bb3bdad42fe7235de6b
+hash: sha256:0a43ed6419dc13aceb797bbcccb2497c7271e137444e7918a006ac2e190ff4fd
