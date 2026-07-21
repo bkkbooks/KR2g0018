@@ -21,21 +21,21 @@ editions:
 - short: krp
 assets:
   parts:
-  - {seq: 1, filename: KR2g0018_001.yaml, hash: 'sha256:f9a99295328900416410dc7637f5cd385335bbb6812ded137265a971545548a0'}
+  - {seq: 1, filename: KR2g0018_001.yaml, hash: 'sha256:02cf60e19e5be726a4066e0c2cd86bbb652014465f8d58e1dcadcd24f366f5c1'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2g0018_001.markers.yaml, hash: 'sha256:472288610ab32f33735dc37d4dfa73df4b7e3d1ffe78415d800ade0daf2acfdb'}
+  - {seq: 1, role: markers, filename: assets/KR2g0018_001.markers.yaml, hash: 'sha256:130a0b328f23c26d4c760fe1f68ac73a815e8107b62dcb738c6f273f71a626bf'}
 table_of_contents:
 - ref:
     seq: 1
     marker_id: KR2g0018_CHANT_001-1a.1-h
     span:
-    - front
+    - body
     - 0
     - 192
   label: 序
   type: section
   level: 1
-hash: sha256:b5535b0edb26e270dac3acccc27e12d66729641c103166e58e60e7f599fcad62
+hash: sha256:fbd0a0271ec94b5cc9c62a549b9d08232198bd2d7ee28ccfa0c7d497fdc116b9
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

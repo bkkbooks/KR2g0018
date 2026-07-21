@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR2g0018/bkk/v1/markers/1
 seq: 1
 markers:
-  front:
+  body:
   - {type: punctuation, offset: 0, content: 《, id: KR2g0018_CHANT_001-bkkpn1}
   - {type: variant, offset: 0, length: 2, content: 序孔, WYG: 欽定四庫全書髙士傳巻上晉皇甫謐撰被衣被衣者堯時人也堯之師曰許由許由之師曰齧缺齧缺之師曰王倪王倪之師曰被衣齧缺問道乎被衣被衣曰若正汝形一汝視天和將至攝汝知一汝度神將來舎徳將為汝美道將為汝居汝瞳焉如新生之犢而無求其故言未卒齧缺睡寐被衣大悦行歌而去之曰形若槁骸心若死灰真其實知不以故自持媒媒晦晦無心而不可與謀彼何人哉王倪王倪者堯時賢人也師被衣齧缺又學於王倪問道焉齧缺曰}
   - {type: page-break, offset: 0, content: '', id: KR2g0018_WYG_001-1a, image: WYG0448/WYG0448-0087a.png}
@@ -176,6 +176,5 @@ markers:
   - {type: substitution, offset: 190, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 192, content: 。, id: KR2g0018_CHANT_001-bkkpn52}
   - {type: xml-element, offset: 192, content: '', id: KR2g0018_CHANT_001-bkkxmlele2}
-  body: []
   back: []
-hash: sha256:472288610ab32f33735dc37d4dfa73df4b7e3d1ffe78415d800ade0daf2acfdb
+hash: sha256:130a0b328f23c26d4c760fe1f68ac73a815e8107b62dcb738c6f273f71a626bf

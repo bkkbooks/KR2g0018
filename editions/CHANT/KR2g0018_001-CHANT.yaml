@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR2g0018/chant/v1/juan/1
 seq: 1
-front:
+body:
   text: 序孔子稱舉逸民天下之民歸心焉洪崖先生創高道於上皇之代許由善卷不降節於唐虞之朝是以易有束帛之義禮有玄纁之制詩人發白駒之歌春秋顯子臧之節明當月令以季春聘名士禮賢者然則高讓之士王政所先厲濁激貪之務也史班之載多所闕略梁鴻頌逸民蘇順科高士或錄屈節雜而不純又近取秦漢不及遠古夫思其人猶愛其樹況稱其德而贊其事哉謐采古今八代之士身不屈於王公名不耗於終始自堯至魏凡九十餘人雖執節若夷齊去就若兩龔皆不錄也
   hash: sha256:9feadbf5ebb02e7fb7a43ae9319cd6529c03c003e29b0fb054b7ee557f3c6084
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2g0018_CHANT_001-1a.1-h}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 高士傳
   edition:
@@ -15,4 +12,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2g0018.xml
-hash: sha256:20eb2873405de35979d0e043ad85cc4bfb05e886e61fd3fb05ff30d55f9206c5
+hash: sha256:932df10cb8d46262ab02ae69d3c7edd45a0c66845efeffc4656a81d3d3678860
